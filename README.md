@@ -1,2 +1,22 @@
-# Unity-C#-2D-Player-Movement-Script
-A Unity 2D player controller featuring smooth movement, double jump, coyote time, jump buffering, and improved jump mechanics.
+# Advanced 2D Player Controller
+
+A reusable 2D player controller built in Unity using C#.
+
+## Features
+
+- Horizontal movement
+- Double jump
+- Coyote time
+- Jump buffering
+- Better jump physics
+- Variable jump height
+- Sprite flipping
+- Easy customization through Inspector
+
+## Engine
+
+Unity
+
+## Language
+
+C#
